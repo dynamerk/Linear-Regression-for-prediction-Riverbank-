@@ -37,10 +37,10 @@ To analyze riverbank displacement across three decades (2004–2014, 2014–2024
 ###  4. Generate Predictions
 - Predict displacement for each location for 2024–2034
 
-### ✅ 5. Export to CSV
+### 5. Export to CSV
 - Save all values (past and predicted) into a structured `.csv` file
 
-### ✅ 6. Visualization
+### 6. Visualization
 - Create a grouped bar chart comparing all three decades
 - Save the chart as a `.png` image
 
@@ -48,12 +48,6 @@ To analyze riverbank displacement across three decades (2004–2014, 2014–2024
 
 - `example_outputs/riverbank_displacement_predictions.csv`
 - `example_outputs/riverbank_displacement_prediction_plot.png`
-
-## 🖼️ Output Example
-
-![Riverbank Displacement Plot](example_outputs/riverbank_displacement_prediction_plot.png)
-
-## 📦 Installation & Usage
 
 ### ▶️ Install Required Libraries
 ```bash
