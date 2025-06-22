@@ -1,4 +1,4 @@
-# Riverbank-Displacement-Trend-Prediction-Using-Linear-Regression
+# Riverbank Displacement Trend Prediction Using Linear Regression
 
 This project presents a simple yet insightful model to analyze and predict riverbank displacement over time at specific sampling locations. Using linear regression, it forecasts future displacements based on past trends and visualizes results in a clear comparative bar chart.
 
